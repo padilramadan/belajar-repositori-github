@@ -5,3 +5,5 @@ mencoba melakukan revert
 mencoba melakukan revert
 
 mencoba melakukan revert ke 3
+
+mencoba revert 4
