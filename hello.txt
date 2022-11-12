@@ -1,5 +1,3 @@
 mencoba push dengan fork
 
 mencoba melakukan revert
-
-mencoba melakukan revert
