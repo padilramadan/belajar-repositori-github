@@ -9,3 +9,5 @@ mencoba melakukan revert ke 3
 mencoba revert 4
 
 mencoba revert 5
+
+mencoba revert 6
